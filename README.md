@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **arihant-angolkar/arihant-angolkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
     <h1>Hi 👋, I'm Arihant Angolkar</h1>
-    <h3>A passionate Backend developer</h3>
+    <h3>A passionate Front-End Designer & Backend developer</h3>
 
   <p> 
         <img src="https://imgs.search.brave.com/d4JhLX9kjfivn-0TsLyxff-kpQwBqQA2j0HuwhVQp-k/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9wcm9ncmFtbWVy/LWRhcmstcm9vbS13/b3JraW5nLWxhdGUt/bmlnaHQtd2l0aC1t/dWx0aXBsZS1zY3Jl/ZW5zLWhlYWRwaG9u/ZXNfMTM1Mjg4NC0y/MjY4OC5qcGc_c2Vt/dD1haXNfaHlicmlk" alt="anna-souz" />
@@ -26,8 +24,8 @@ Here are some ideas to get you started:
 
 <div align="left" style="line-height: 1.5; margin-bottom: 10px;">
    - 🌱 I’m currently learning <strong>MERN and DevOps</strong><br><br>
-   - 💬 Ask me about <strong>Python, Flask technologies</strong><br><br>
-   - 📫 How to reach me: <strong>annasouz29@gmail.com</strong>
+   - 💬 Ask me about <strong>Web Development, Python, Flask technologies</strong><br><br>
+   - 📫 How to reach me: <strong>arihantangolkar43849@gmail.com</strong>
 </div>
 
 
@@ -37,7 +35,7 @@ Here are some ideas to get you started:
   <table>
         <tr>
             <td valign="top" width="33%">
-                ‎ ‎ ‎ ‎ ‎ ‎  Frontend  
+                ‎. ‎ ‎ ‎ ‎ ‎  Frontend  
                 <div align="center">  
                     <a href="https://reactjs.org/" target="_blank">
                         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
@@ -57,7 +55,7 @@ Here are some ideas to get you started:
                 </div>
             </td>
             <td valign="top" width="33%">
-                ‎ ‎ ‎ ‎ ‎ ‎  Backend  
+                ‎. ‎ ‎ ‎ ‎ ‎  Backend  
                 <div align="center">  
                     <a href="https://www.cplusplus.com/" target="_blank">
                         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
@@ -83,7 +81,7 @@ Here are some ideas to get you started:
                 </div>
             </td>
             <td valign="top" width="33%">
-                ‎ ‎‎ ‎ ‎  ‎  Tools 
+                ‎. ‎‎ ‎ ‎  ‎  Tools 
                 <div align="center"> 
                     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
                         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>
@@ -100,14 +98,14 @@ Here are some ideas to get you started:
     
   ## Connect with me  
   <div align="center">
-        <a href="https://linkedin.com/in/anna-souz" target="blank">
-            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/anna-souz" height="40" width="50" />
+        <a href="https://www.linkedin.com/in/arihant-angolkar/" target="blank">
+            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/arihant-angolkar" height="40" width="50" />
         </a>
-        <a href="https://leetcode.com/u/anna_souz_29" target="blank">
-            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/anna_souz_29" height="40" width="50" />
+        <a href="https://leetcode.com/u/arihant_angolkar/" target="blank">
+            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/arihant_angolkar/" height="40" width="50" />
         </a>
-        <a href="https://github.com/Anna-Souz" target="blank">
-            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="anna-souz" height="40" width="50">
+        <a href="https://github.com/arihant-angolkar" target="blank">
+            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="arihant_angolkar" height="40" width="50">
         </a>
     </div>  
     
