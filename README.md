@@ -114,10 +114,10 @@ Here are some ideas to get you started:
   ## Github Stats  
   <div align="center">
         <p>
-            <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anna-souz&show_icons=true&locale=en&layout=compact" alt="anna-souz" />
+            <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arihant-angolkar&show_icons=true&locale=en&layout=compact" alt="arihant-angolkar" />
         </p>
         <p>
-            &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anna-souz&show_icons=true&locale=en" alt="anna-souz" />
+            &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arihant-angolkar&show_icons=true&locale=en" alt="arihant-angolkar" />
         </p>
     </div>
 </div>
