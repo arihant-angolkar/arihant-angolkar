@@ -34,9 +34,9 @@ Here are some ideas to get you started:
   ## My Skill Set  
   <table>
         <tr>
-            <td valign="top" width="33%">
-                ‎. ‎ ‎ ‎ ‎ ‎  Frontend  
-                <div align="center">  
+            <td valign="top" width="33%" align="center">
+                ‎Frontend  
+                <div align="center"><br>  
                     <a href="https://reactjs.org/" target="_blank">
                         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
                     </a>  
@@ -54,9 +54,9 @@ Here are some ideas to get you started:
                     </a>  
                 </div>
             </td>
-            <td valign="top" width="33%">
-                ‎. ‎ ‎ ‎ ‎ ‎  Backend  
-                <div align="center">  
+            <td valign="top" width="33%" align="center">
+                Backend  
+                <div align="center"><br>
                     <a href="https://www.cplusplus.com/" target="_blank">
                         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
                     </a>  
@@ -80,9 +80,9 @@ Here are some ideas to get you started:
                     </a>
                 </div>
             </td>
-            <td valign="top" width="33%">
-                ‎. ‎‎ ‎ ‎  ‎  Tools 
-                <div align="center"> 
+            <td valign="top" width="33%" align="center">
+               Tools 
+                <div align="center"> <br>
                     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
                         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>
                     </a>
