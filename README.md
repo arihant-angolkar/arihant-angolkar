@@ -19,9 +19,11 @@ Here are some ideas to get you started:
     <h3>A passionate Front-End Designer & Backend developer</h3>
 
   <p> 
-        <img src="https://imgs.search.brave.com/d4JhLX9kjfivn-0TsLyxff-kpQwBqQA2j0HuwhVQp-k/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9wcm9ncmFtbWVy/LWRhcmstcm9vbS13/b3JraW5nLWxhdGUt/bmlnaHQtd2l0aC1t/dWx0aXBsZS1zY3Jl/ZW5zLWhlYWRwaG9u/ZXNfMTM1Mjg4NC0y/MjY4OC5qcGc_c2Vt/dD1haXNfaHlicmlk" alt="anna-souz" />
+<!--         <img src="https://imgs.search.brave.com/d4JhLX9kjfivn-0TsLyxff-kpQwBqQA2j0HuwhVQp-k/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9wcm9ncmFtbWVy/LWRhcmstcm9vbS13/b3JraW5nLWxhdGUt/bmlnaHQtd2l0aC1t/dWx0aXBsZS1zY3Jl/ZW5zLWhlYWRwaG9u/ZXNfMTM1Mjg4NC0y/MjY4OC5qcGc_c2Vt/dD1haXNfaHlicmlk" /> -->
     </p>
-      
+
+<img src="https://github.com/user-attachments/assets/e1a02905-a094-4442-b2e0-04edabe30c08" />
+
   <br/>
 
 <div align="left" style="line-height: 1.5; margin-bottom: 10px;">
