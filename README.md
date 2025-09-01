@@ -109,9 +109,9 @@ Here are some ideas to get you started:
         <a href="https://www.linkedin.com/in/arihant-angolkar/" target="blank">
             <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/arihant-angolkar" height="40" width="50" />
         </a>
-        <a href="https://leetcode.com/u/arihant_angolkar/" target="blank">
+<!--         <a href="https://leetcode.com/u/arihant_angolkar/" target="blank">
             <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/arihant_angolkar/" height="40" width="50" />
-        </a>
+        </a> -->
         <a href="https://github.com/arihant-angolkar" target="blank">
             <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="arihant_angolkar" height="40" width="50">
         </a>
