@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 <!--     <h1>Hi 👋, I'm Arihant Angolkar </h1>  -->
-    <h3>A passionate Front-End Designer & Backend developer</h3>
+    <!-- <h3>A passionate Front-End Designer & Backend developer</h3> -->
 
   <p> 
 <!--         <img src="https://imgs.search.brave.com/d4JhLX9kjfivn-0TsLyxff-kpQwBqQA2j0HuwhVQp-k/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9wcm9ncmFtbWVy/LWRhcmstcm9vbS13/b3JraW5nLWxhdGUt/bmlnaHQtd2l0aC1t/dWx0aXBsZS1zY3Jl/ZW5zLWhlYWRwaG9u/ZXNfMTM1Mjg4NC0y/MjY4OC5qcGc_c2Vt/dD1haXNfaHlicmlk" /> -->
