@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <div align="left" style="line-height: 1.5; margin-bottom: 10px;">
    - 🌱 I’m currently learning <strong>MERN and DevOps</strong><br><br>
    - 💬 Ask me about <strong>Web Development, Python, Flask technologies</strong><br><br>
-   - 📫 How to reach me: <strong>arihantangolkar43849@gmail.com</strong>
+   - 📫 Reach me at: <strong>arihantangolkar43849@gmail.com</strong>
 </div>
 
 
