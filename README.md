@@ -27,8 +27,8 @@ Here are some ideas to get you started:
   <br/>
 
 <div align="left" style="line-height: 1.5; margin-bottom: 10px;">
-   - 🌱 I’m currently learning <strong>MERN and DevOps</strong><br><br>
-   - 💬 Ask me about <strong>Web Development, Python, Flask technologies</strong><br><br>
+   <!-- - 🌱 I’m currently learning <strong>MERN and DevOps</strong><br><br> -->
+   <!-- - 💬 Ask me about <strong>Web Development, Python, Flask technologies</strong><br><br> -->
    - 📫 Reach me at: <strong>arihantangolkar43849@gmail.com</strong>
 </div>
 
@@ -39,18 +39,18 @@ Here are some ideas to get you started:
   <br/>  
     
   ## Connect with me  
-  <div align="center">
-        <a href="https://www.linkedin.com/in/arihant-angolkar/" target="blank">
-            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/arihant-angolkar" height="40" width="50" />
-        </a>
-<!--         <a href="https://leetcode.com/u/arihant_angolkar/" target="blank">
-            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/arihant_angolkar/" height="40" width="50" />
-        </a> -->
-      <br/>
-        <a href="https://github.com/arihant-angolkar" target="blank">
-            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="arihant_angolkar" height="40" width="50">
-        </a>
-    </div>  
+  <p align="center">
+  <a href="https://www.linkedin.com/in/arihant-angolkar/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:arihantangolkar43849@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/arihant-angolkar" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+  </a>
     
   <br/>  
     
