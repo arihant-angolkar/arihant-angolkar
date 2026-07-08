@@ -50,6 +50,10 @@ Here are some ideas to get you started:
   &nbsp;&nbsp;
   <a href="https://github.com/arihant-angolkar" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+  </a>    
+  &nbsp;&nbsp;
+  <a href="https://x.com/ArihantAngolkar" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="45" alt="X"/>
   </a>
     
   <br/>  
