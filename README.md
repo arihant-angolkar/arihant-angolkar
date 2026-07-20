@@ -26,7 +26,6 @@
 <li>Backend-heavy systems and APIs [Python, Java, Node.js,PostgreSQL, MongoDB, Supabase]</li>
 <li>Scalable architectures and system design [distributed systems, AWS]</li>
 <li>Developer tooling and internal platforms [CLI tools, CI/CD, Docker]</li>
-<li>Observability and monitoring [Prometheus, Grafana, ELK Stack, Newrelic, Catchpoint]</li>
 <li>Prototyping → hardening → productionizing ideas [MVP, testing, observability]</li>
 </ul>
 
@@ -67,6 +66,8 @@
 <!--         <p>
             <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arihant-angolkar&show_icons=true&locale=en&layout=compact" alt="arihant-angolkar" />
         </p>
+     <li>Observability and monitoring [Prometheus, Grafana, ELK Stack, Newrelic, Catchpoint]</li>
+
         <p>
             &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arihant-angolkar&show_icons=true&locale=en" alt="arihant-angolkar" />
         </p>
