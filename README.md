@@ -1,35 +1,39 @@
-<!--
-**arihant-angolkar/arihant-angolkar** is a ✨ _special_ ✨ repository because its `README.md` (this file)  appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ Hi, I'm `Arihant Angolkar`
 
 <div align="center">
-<!--     <h1>Hi 👋, I'm Arihant Angolkar </h1>  -->
-    <!-- <h3>A passionate Front-End Designer & Backend developer</h3> -->
-
-  <p> 
-<!--         <img src="https://imgs.search.brave.com/d4JhLX9kjfivn-0TsLyxff-kpQwBqQA2j0HuwhVQp-k/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9wcm9ncmFtbWVy/LWRhcmstcm9vbS13/b3JraW5nLWxhdGUt/bmlnaHQtd2l0aC1t/dWx0aXBsZS1zY3Jl/ZW5zLWhlYWRwaG9u/ZXNfMTM1Mjg4NC0y/MjY4OC5qcGc_c2Vt/dD1haXNfaHlicmlk" /> -->
-    </p>
-
-<img src="https://github.com/user-attachments/assets/e1a02905-a094-4442-b2e0-04edabe30c08" />
-
-  <br/>
-
+<img style="height: 300px; width=300px" src="https://github.com/user-attachments/assets/e1a02905-a094-4442-b2e0-04edabe30c08" />
+<br/>
 <div align="left" style="line-height: 1.5; margin-bottom: 10px;">
-   <!-- - 🌱 I’m currently learning <strong>MERN and DevOps</strong><br><br> -->
-   <!-- - 💬 Ask me about <strong>Web Development, Python, Flask technologies</strong><br><br> -->
-   - 📫 Reach me at: <strong>arihantangolkar43849@gmail.com</strong>
+   <!-- - 📫 Reach me at: <strong>arihantangolkar43849@gmail.com</strong> -->
+<br>
+<p>
+    Product-driven software engineer building <b>AI-first systems</b> that scale from idea to production.<br>
+    I work at the intersection of <b>AI, systems, and product engineering</b>, focusing on building things that are:
+</p>
+
+<ul>
+    <li>useful in the real world</li>
+    <li>scalable and maintainable</li>
+    <li>thoughtfully designed, not over-engineered</li>
+</ul>
+
+<p>I enjoy shipping fast, iterating in the open, and learning by building.</p>
+
+<h3>What I Work On</h3>
+<ul>
+<li>AI-first product engineering [LangChain, LangGraph, Vector DBs (Pinecone, ChromaDB, Turbopuffer)]</li>
+<li>AI Research and Development [Tensorflow, PyTorch]</li>
+<li>Backend-heavy systems and APIs [Python, Java, Node.js,PostgreSQL, MongoDB, Supabase]</li>
+<li>Scalable architectures and system design [distributed systems, AWS]</li>
+<li>Developer tooling and internal platforms [CLI tools, CI/CD, Docker]</li>
+<li>Observability and monitoring [Prometheus, Grafana, ELK Stack, Newrelic, Catchpoint]</li>
+<li>Prototyping → hardening → productionizing ideas [MVP, testing, observability]</li>
+</ul>
+
+<br>
+
+` Thanks for stopping by. If something here resonates, feel free to reach out.`
+
 </div>
 
 
