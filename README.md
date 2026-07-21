@@ -63,6 +63,16 @@
     
   ## Github Stats  
   <div align="center">
+
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=arihant-angolkar&&style=flat-circle" align="center" />
+</div>  
+  
+
+<br/>
+</div>
+</div>
 <!--         <p>
             <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arihant-angolkar&show_icons=true&locale=en&layout=compact" alt="arihant-angolkar" />
         </p>
@@ -72,12 +82,3 @@
             &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arihant-angolkar&show_icons=true&locale=en" alt="arihant-angolkar" />
         </p>
       <br/>   -->
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=arihant-angolkar&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>
-</div>
-</div>
